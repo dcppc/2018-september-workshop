@@ -8,7 +8,7 @@ _The September DCPPC workshop will be held at Harvard University in Boston, MA o
 
 ### Quick Links
 
-- [Registration](https://ti.to/dcppc/2018-september-workshop) Please note that registration is required to attend
+- [Registration](https://ti.to/dcppc/september-dcppc-workshop) Please note that registration is required to attend
 - [Attendees](./attendees.md) - A list of attendees sorted by team and first name
 - [Agenda](./agenda.md) - A detailed agenda
 - [Directions and parking](./directions.md)
