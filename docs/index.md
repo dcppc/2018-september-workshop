@@ -8,9 +8,9 @@ _The September DCPPC workshop will be held at Harvard University in Boston, MA o
 
 ### Quick Links
 
-- [Registration](https://ti.to/dcppc/september-dcppc-workshop) Please note that registration is required to attend
+- **[Registration](https://ti.to/dcppc/september-dcppc-workshop)** Please note that registration is required to attend
+- **[Agenda](./agenda.md)** - A detailed agenda
 - [Attendees](./attendees.md) - A list of attendees sorted by team and first name
-- [Agenda](./agenda.md) - A detailed agenda
 - [Reimbursements](./reimbursements.md) - details and a reimbursement form
 - [Slack](https://nih-dcppc.slack.com/messages/CAMLGP27N/convo/GANQFSGAD-1528381202.000599/) - Join the [#2018-monthly-workshop](https://nih-dcppc.slack.com/messages/CAMLGP27N/convo/GANQFSGAD-1528381202.000599/) channel to connect with other workshop attendees. 
 
