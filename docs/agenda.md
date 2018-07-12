@@ -2,7 +2,6 @@
 layout: page
 title: September 2018 DCPPC Workshop 
 tagline: Agenda
-
 ---
 
 ### Workshop Day 1: September 20
@@ -21,7 +20,7 @@ _To view the speaker order and to indicate who will represent your team, please 
 
 13:00 -  Breakout sessions
 
-_For up-to-date information on breakout sessions, please visit the [August Workshop issues page](https://github.com/dcppc/2018-september-workshop/issues)_
+_For up-to-date information on breakout sessions, please visit the [September Workshop issues page](https://github.com/dcppc/2018-september-workshop/issues)_
 
 14:30 - Coffee break (~20 minutes)
 
@@ -48,7 +47,7 @@ _To view the speaker order and to indicate who will represent your team, please 
 
 13:00 -  Breakout sessions
 
-_For up-to-date information on breakout sessions, please visit the [August Workshop issues page](https://github.com/dcppc/2018-september-workshop/issues)_
+_For up-to-date information on breakout sessions, please visit the [September Workshop issues page](https://github.com/dcppc/2018-september-workshop/issues)_
 
 14:30 - Coffee break (~20 minutes)
 
