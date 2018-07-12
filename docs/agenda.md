@@ -15,16 +15,13 @@ tagline: Agenda
   
 _To view the speaker order and to indicate who will represent your team, please visit [this issue](https://github.com/dcppc/2018-september-workshop/issues/). Each speaker will have 5 minutes to present and 3 minutes for Q&A._
 
-
 10:30 - Coffee break (~20 minutes)
  
 12:00 -  Lunch (1 hour)         
 
-13:00 -  Breakout group planning
+13:00 -  Breakout sessions
 
 _For up-to-date information on breakout sessions, please visit the [August Workshop issues page](https://github.com/dcppc/2018-september-workshop/issues)_
-
-13:30 -  Breakout sessions
 
 14:30 - Coffee break (~20 minutes)
 
@@ -39,7 +36,6 @@ _For up-to-date information on breakout sessions, please visit the [August Works
 
 **Link to connect via Zoom: [https://zoom.us/j/558817992](https://zoom.us/j/558817992)**
 
-
 09: 00: Welcome remarks
  
 09: 15: Team Lightning talks
@@ -50,11 +46,9 @@ _To view the speaker order and to indicate who will represent your team, please 
  
 12:00 -  Lunch (1 hour)         
 
-13:00 -  Breakout group planning
+13:00 -  Breakout sessions
 
 _For up-to-date information on breakout sessions, please visit the [August Workshop issues page](https://github.com/dcppc/2018-september-workshop/issues)_
-
-13:30 -  Breakout sessions
 
 14:30 - Coffee break (~20 minutes)
 
@@ -66,4 +60,3 @@ _For up-to-date information on breakout sessions, please visit the [August Works
 
 16:30 - End
  
-
