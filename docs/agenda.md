@@ -12,7 +12,8 @@ tagline: Agenda
  
 09:20 - Team Lightning talks: The awesome things you have accomplished in the past.
   
-_To view the speaker order and to indicate who will represent your team, please visit [this issue](https://github.com/dcppc/2018-september-workshop/issues/). Each speaker will have 5 minutes to present and 3 minutes for Q&A._
+_Each speaker will have 5 minutes to present and 3 minutes for Q&A.
+Stay tuned for order of presentations._
 
 10:30 - Coffee break (~20 minutes)
  
@@ -35,11 +36,12 @@ _For up-to-date information on breakout sessions, please visit the [September Wo
 
 **Link to connect via Zoom: [https://zoom.us/j/558817992](https://zoom.us/j/558817992)**
 
-09: 00: Welcome remarks
+09:00: Welcome remarks
  
-09: 15: Team Lightning talks
+09:15: Team Lightning talks
 
-_To view the speaker order and to indicate who will represent your team, please visit [this issue](https://github.com/dcppc/2018-september-workshop/issues/). Each speaker will have 5 minutes to present and 3 minutes for Q&A._
+_Each speaker will have 5 minutes to present and 3 minutes for Q&A.
+Stay tuned for order of presentations._
 
 10:30 - Coffee break (~20 minutes)
  

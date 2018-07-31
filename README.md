@@ -2,9 +2,14 @@
 
 Welcome! This repository contains the website for the September 2018 DCPPC Workshop, will be held at Harvard University.
 
-The 2018 September Workshop website is available here: [http://nih-data-commons.us/2018-september-workshop](http://nih-data-commons.us/2018-september-workshop)
+Here is the [2018 September Workshop website](http://nih-data-commons.us/2018-september-workshop). 
 
-This website is automatically generated from Markdown files in the `docs/` folder of this repository.
+The [main agenda](http://nih-data-commons.us/2018-september-workshop/agenda) provides and overview of the events and times.
+
+### Contributing
+View or contribute to the the living agenda by reading the [open Issues](https://github.com/dcppc/2018-september-workshop/issues). 
+
 To add or modify content on the workshop website, edit the corresponding file in the `docs/` folder.
-The site title, Github URL, and other information is set in `docs/_config.yml`, a YAML configuration file.
+
+All contributors should agree to the code of conduct.
 

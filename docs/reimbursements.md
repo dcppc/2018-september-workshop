@@ -19,7 +19,7 @@ Please download and complete the [Travel Reimbursement Worksheet](https://github
 - Meals will only be reimbursed for the amount of actual expenses incurred (not to exceed $62 per day).
 - There must be an overnight stay to claim meal reimbursement.
 - The cost of alcohol will not be reimbursed. Meal receipts must be itemized and alcohol must be put on a separate receipt!
-- The $62 daily limit includes all tips for meals.
+- The $62 daily limit includes all tips for meals. 
 
 ### Flights
 - Please book your own flights. 
@@ -32,8 +32,13 @@ _Note: this section is for organizations helping with catering events_
 - Please save all itemized receipts. 
 - Include a list of participants.
 - We cannot reimburse alcohol.
-- The grand total for meal reimbursement (including catered food and food purchased by attendees) should not exceed $62 per person per day. 
-- We recommend $14 per person for the combined coffee breaks and $15 per person for lunch.
+- Entertainment meals are allowable as long as there is a business reason/purpose
+- Meal allowances for catering are:
+	- breakfast $27
+	- lunch $47
+	- dinner $81
+	- refreshments $19
+- Contact <dcppc.inbox@gmail.com> with questions about payment.
 
 ### Special requests
 If you have any special requests or concerns, please email <dcppc.inbox@gmail.com>.
