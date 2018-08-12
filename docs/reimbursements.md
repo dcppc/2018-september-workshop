@@ -6,10 +6,10 @@ tagline: Reimbursements
 
 Team Copper is happy to reimburse transportation expenses, hotels, AirBnB,
 and everything allowed by the [UC Davis travel policy](https://policy.ucop.edu/doc/3420365/BFB-G-28)
-(since we will be using UC Davis to reimburse expenses). This document provides a link to the [reimbursement from]((https://github.com/dcppc/2018-july-workshop/raw/master/docs/TravelReimbursementWorksheet.doc)) need to request reimbursement as well as the answers to some frequently asked questions. 
+(since we will be using UC Davis to reimburse expenses). This document provides a link to the [reimbursement from]((https://github.com/dcppc/2018-september-workshop/raw/master/docs/TravelReimbursementWorksheet.doc)) need to request reimbursement as well as the answers to some frequently asked questions. 
 
 ### Travel Reimbursement Form
-Please download and complete the [Travel Reimbursement Worksheet](https://github.com/dcppc/2018-july-workshop/raw/master/docs/TravelReimbursementWorksheet.doc) for a refund. Click the link and the download will start automatically. 
+Please download and complete the [Travel Reimbursement Worksheet](https://github.com/dcppc/2018-september-workshop/raw/master/docs/TravelReimbursementWorksheet.doc) for a refund. Click the link and the download will start automatically. 
 
 ### Receipts
 
