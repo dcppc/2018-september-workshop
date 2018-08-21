@@ -1,6 +1,6 @@
 # 2018-september-workshop
 
-Welcome! This repository contains the website for the September 2018 DCPPC Workshop, will be held at Harvard University.
+Welcome! This repository contains the website for the September 2018 DCPPC Workshop, will be held on September 20-21 at Harvard University.
 
 Here is the [2018 September Workshop website](http://nih-data-commons.us/2018-september-workshop). 
 
