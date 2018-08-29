@@ -17,15 +17,9 @@ at the Harvard School of Public Health in Boston, MA._
 - [Reimbursements](./reimbursements.md) - details and a reimbursement form
 - [Slack](https://nih-dcppc.slack.com/messages/CAMLGP27N/convo/GANQFSGAD-1528381202.000599/) - Join the [#2018-monthly-workshop](https://nih-dcppc.slack.com/messages/CAMLGP27N/convo/GANQFSGAD-1528381202.000599/) channel to connect with other workshop attendees. 
 
-
-
-### About the venue
-
-_Stay tuned for more info!_
-
-
 ### Area Hotels
 
+_Note: _If seeking reimbursement from Team Copper, your hotel should not exceed $275/night. If your hotel cost exceeds the $275/night, you must include price comparison and complete this [Lodging Limit Justification Form](https://supplychain.ucdavis.edu/sites/g/files/dgvnsk2181/files/inline-files/llj.pdf)._
 
 [**The Inn At Longwood Medical**](https://www.innatlongwood.com/)
 
