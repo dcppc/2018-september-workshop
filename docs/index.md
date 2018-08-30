@@ -24,7 +24,7 @@ Team Copper plans on circulating highlights, key decisions, videos and links to 
 
 ### Registration
 
-[Registration](https://ti.to/dcppc/september-dcppc-workshop) is temporarily closed. You can view the current list of attendees [here](http://nih-data-commons.us/2018-september-workshop/attendees). I have space for 10 more people, but I imagine many more than 10 want to attend, so we must prioritize and perhaps adjust.  Teams Calcium, Helium, Hydrogen, and Xenon all have 6+ attendees, so I'm capping your team's registration. Please discuss within your team why each person needs to attend as see if it is possible to cut back.  Teams Carbon, Nitrogen, Oxygen, Phosphorus, & Sodium only have 1 attendee, but I imagine would like to send more. **Action item:** please contact Rayna Harris (via slack or email) with the names of attendees you would like to remove or add by Tues. Sept 4th.  
+[Registration](https://ti.to/dcppc/september-dcppc-workshop) is temporarily closed. You can [view the current list of attendees here](http://nih-data-commons.us/2018-september-workshop/attendees). I have space for 10 more people, but I imagine many more than 10 want to attend, so we must prioritize and perhaps adjust.  Teams Calcium, Helium, Hydrogen, and Xenon all have 6+ attendees, so I'm capping your team's registration. Please discuss within your team why each person needs to attend as see if it is possible to cut back.  Teams Carbon, Nitrogen, Oxygen, Phosphorus, & Sodium only have 1 attendee, but I imagine would like to send more. **Action item:** please contact Rayna Harris (via slack or email) with the names of attendees you would like to remove or add by Tues. Sept 4th.  
 
    
 
