@@ -19,7 +19,7 @@ at the Harvard School of Public Health in Boston, MA._
 
 ### Communication and information 
 
-Team Copper plan on circulating a highlights, key decisions, videos and links to all documents related to the September workshops, so even if you cannot or chose not to attend, we will doing our best to dissemination information. Click  [here for a Slack inviation](https://nih-dcppc.slack.com/messages/CAMLGP27N/convo/GANQFSGAD-1528381202.000599/) and join the [#2018-monthly-workshop](https://nih-dcppc.slack.com/messages/CAMLGP27N/convo/GANQFSGAD-1528381202.000599/) channel to connect with other workshop attendees. 
+Team Copper plans on circulating highlights, key decisions, videos and links to all documents related to the September workshops, so even if you cannot or chose not to attend, we will doing our best to dissemination information. Click  [here for a Slack inviation](https://nih-dcppc.slack.com/messages/CAMLGP27N/convo/GANQFSGAD-1528381202.000599/) and join the [#2018-monthly-workshop](https://nih-dcppc.slack.com/messages/CAMLGP27N/convo/GANQFSGAD-1528381202.000599/) channel to connect with other workshop attendees. 
 
 
 ### Registration
