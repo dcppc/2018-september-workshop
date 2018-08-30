@@ -11,11 +11,28 @@ at the Harvard School of Public Health in Boston, MA._
 
 ### Quick Links
 
-- **[Registration](https://ti.to/dcppc/september-dcppc-workshop)** Please note that registration is required to attend
-- **[Agenda](./agenda.md)** - A detailed agenda
-- [Attendees](./attendees.md) - A list of attendees sorted by team and first name
-- [Reimbursements](./reimbursements.md) - details and a reimbursement form
-- [Slack](https://nih-dcppc.slack.com/messages/CAMLGP27N/convo/GANQFSGAD-1528381202.000599/) - Join the [#2018-monthly-workshop](https://nih-dcppc.slack.com/messages/CAMLGP27N/convo/GANQFSGAD-1528381202.000599/) channel to connect with other workshop attendees. 
+- **[Agenda](./agenda.md)** - A the detailed agenda is updated in semi-real-time. The deadline for proposing breakouts or claiming your lightning talk position is Monday, Sept 17.  Submit your ideas [via GitHub Issues](https://github.com/dcppc/2018-september-workshop/issues). 
+- **[Attendees](./attendees.md)** - A list of attendees sorted by team and first name as well as a summary of attendees by group.
+- **[Reimbursements](./reimbursements.md)** - details and a reimbursement form
+- **[Slack](https://nih-dcppc.slack.com/messages/CAMLGP27N/convo/GANQFSGAD-1528381202.000599/)** - Join the [#2018-monthly-workshop](https://nih-dcppc.slack.com/messages/CAMLGP27N/convo/GANQFSGAD-1528381202.000599/) channel to connect with other workshop attendees. 
+
+
+### Communication and information 
+
+Team Copper plan on circulating a highlights, key decisions, videos and links to all documents related to the September workshops, so even if you cannot or chose not to attend, we will doing our best to dissemination information. Click  [here for a Slack inviation](https://nih-dcppc.slack.com/messages/CAMLGP27N/convo/GANQFSGAD-1528381202.000599/) and join the [#2018-monthly-workshop](https://nih-dcppc.slack.com/messages/CAMLGP27N/convo/GANQFSGAD-1528381202.000599/) channel to connect with other workshop attendees. 
+
+
+### Registration
+
+[Registration](https://ti.to/dcppc/september-dcppc-workshop) is temporarily closed. You can view the current list of attendees [here](http://nih-data-commons.us/2018-september-workshop/attendees). I have space for 10 more people, but I imagine many more than 10 want to attend, so we must prioritize and perhaps adjust.  Teams Calcium, Helium, Hydrogen, and Xenon all have 6+ attendees, so I'm capping your team's registration. Please discuss within your team why each person needs to attend as see if it is possible to cut back.  Teams Carbon, Nitrogen, Oxygen, Phosphorus, & Sodium only have 1 attendee, but I imagine would like to send more. **Action item:** please contact Rayna Harris (via slack or email) with the names of attendees you would like to remove or add by Tues. Sept 4th.  
+
+   
+
+    
+### Talks and breakout groups
+
+The deadline for proposing breakouts or submitting names for speakers is **Monday, Sept 17**.  This includes letting me know if no one from your team will present. Talks and breakout groups are coordinated [via GitHub Issues](https://github.com/dcppc/2018-september-workshop/issues). Want to view past events? [View videos from past lightning talks and breakout groups](https://archive.org/search.php?query=collection%3A%28nih-dcppc%29) on our Internet Archive chanel.
+
 
 ### Area Hotels
 
