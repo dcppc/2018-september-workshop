@@ -4,7 +4,6 @@ title: September 2018 DCPPC Workshop
 tagline: Attendees
 
 ---
-
 *The following information was last updated on September 6, 2018.*
 
 ### List of attendees, sorted by team and first name
@@ -34,56 +33,57 @@ tagline: Attendees
     ## 22        Copper           Charles Reid
     ## 23        Copper           Rayna Harris
     ## 24        Copper         Rudy Potenzone
-    ## 25 Data Stewards           Albert Smith
-    ## 26 Data Stewards            Ben Heavner
-    ## 27 Data Stewards         Francois Aguet
-    ## 28 Data Stewards           Jared Nedzel
-    ## 29 Data Stewards             Karen Yook
-    ## 30 Data Stewards               Ken Rice
-    ## 31 Data Stewards         Kristin Ardlie
-    ## 32 Data Stewards Laurent-Philippe Albou
-    ## 33 Data Stewards         Mary Shimoyama
-    ## 34        Helium           Anne Thessen
-    ## 35        Helium       Asia Mieczkowska
-    ## 36        Helium       Christopher Ball
-    ## 37        Helium        Claris Castillo
-    ## 38        Helium            Karen Davis
-    ## 39        Helium           Kevin Wilson
-    ## 40        Helium          Kira Bradford
-    ## 41        Helium            Ray Idaszak
-    ## 42        Helium         Rebecca Boyles
-    ## 43        Helium             Stan Ahalt
-    ## 44        Helium            Tudor Oprea
-    ## 45        Helium      Vroselyn Benjamin
-    ## 46      Hydrogen            Ajay Pillai
-    ## 47      Hydrogen          Chip Schwartz
-    ## 48      Hydrogen              Jen Yttri
-    ## 49      Hydrogen          Jennie Larkin
-    ## 50      Hydrogen      Kristen Cleveland
-    ## 51      Hydrogen            Lora Kutkat
-    ## 52      Hydrogen           Paul Barrett
-    ## 53      Hydrogen         Sonynka Ngosso
-    ## 54      Hydrogen         Tanja Davidsen
-    ## 55      Nitrogen            Avi Ma'ayan
-    ## 56      Nitrogen          Daniel Clarke
-    ## 57      Nitrogen       Michel Dumontier
-    ## 58      Nitrogen         Sherry Jenkins
-    ## 59        Oxygen    Lucila Ohno-Machado
-    ## 60    Phosphorus             Bob Carter
-    ## 61    Phosphorus            Kemi Ifeonu
-    ## 62    Phosphorus       Suvarna Nadendla
-    ## 63        Sodium         Julian Gautier
-    ## 64        Sodium Manuel Bernal Llinares
-    ## 65        Sodium           Max Levinson
-    ## 66        Sodium           Merce Crosas
-    ## 67        Sodium              Tim Clark
-    ## 68         Xenon            Alison Leaf
-    ## 69         Xenon         Anita de Waard
-    ## 70         Xenon Brandi Davis-Dusenbery
-    ## 71         Xenon          Ian Broadhead
-    ## 72         Xenon  Marina Soares e Silva
-    ## 73         Xenon             Mia Nastic
-    ## 74         Xenon         Saiju Pyarajan
+    ## 25        Copper            Titus Brown
+    ## 26 Data Stewards           Albert Smith
+    ## 27 Data Stewards            Ben Heavner
+    ## 28 Data Stewards         Francois Aguet
+    ## 29 Data Stewards           Jared Nedzel
+    ## 30 Data Stewards             Karen Yook
+    ## 31 Data Stewards               Ken Rice
+    ## 32 Data Stewards         Kristin Ardlie
+    ## 33 Data Stewards Laurent-Philippe Albou
+    ## 34 Data Stewards         Mary Shimoyama
+    ## 35        Helium           Anne Thessen
+    ## 36        Helium       Asia Mieczkowska
+    ## 37        Helium       Christopher Ball
+    ## 38        Helium        Claris Castillo
+    ## 39        Helium            Karen Davis
+    ## 40        Helium           Kevin Wilson
+    ## 41        Helium          Kira Bradford
+    ## 42        Helium            Ray Idaszak
+    ## 43        Helium         Rebecca Boyles
+    ## 44        Helium             Stan Ahalt
+    ## 45        Helium            Tudor Oprea
+    ## 46        Helium      Vroselyn Benjamin
+    ## 47      Hydrogen            Ajay Pillai
+    ## 48      Hydrogen          Chip Schwartz
+    ## 49      Hydrogen              Jen Yttri
+    ## 50      Hydrogen          Jennie Larkin
+    ## 51      Hydrogen      Kristen Cleveland
+    ## 52      Hydrogen            Lora Kutkat
+    ## 53      Hydrogen           Paul Barrett
+    ## 54      Hydrogen         Sonynka Ngosso
+    ## 55      Hydrogen         Tanja Davidsen
+    ## 56      Nitrogen            Avi Ma'ayan
+    ## 57      Nitrogen          Daniel Clarke
+    ## 58      Nitrogen       Michel Dumontier
+    ## 59      Nitrogen         Sherry Jenkins
+    ## 60        Oxygen    Lucila Ohno-Machado
+    ## 61    Phosphorus             Bob Carter
+    ## 62    Phosphorus            Kemi Ifeonu
+    ## 63    Phosphorus       Suvarna Nadendla
+    ## 64        Sodium         Julian Gautier
+    ## 65        Sodium Manuel Bernal Llinares
+    ## 66        Sodium           Max Levinson
+    ## 67        Sodium           Merce Crosas
+    ## 68        Sodium              Tim Clark
+    ## 69         Xenon            Alison Leaf
+    ## 70         Xenon         Anita de Waard
+    ## 71         Xenon Brandi Davis-Dusenbery
+    ## 72         Xenon          Ian Broadhead
+    ## 73         Xenon  Marina Soares e Silva
+    ## 74         Xenon             Mia Nastic
+    ## 75         Xenon         Saiju Pyarajan
 
 ### Overview of particpants per team
 
@@ -91,7 +91,7 @@ tagline: Attendees
     ## 1          Argon  7
     ## 2        Calcium 10
     ## 3         Carbon  3
-    ## 4         Copper  4
+    ## 4         Copper  5
     ## 5  Data Stewards  9
     ## 6         Helium 12
     ## 7       Hydrogen  9
