@@ -5,70 +5,87 @@ tagline: Attendees
 
 ---
 
-*The following information was last updated on August 29, 2018.*
+*The following information was last updated on September 6, 2018.*
 
 ### List of attendees, sorted by team and first name
 
     ##             Team       Ticket Full Name
-    ## 1          Argon             Kyle Chard
-    ## 2        Calcium         Abigail George
-    ## 3        Calcium         Brian O'Connor
-    ## 4        Calcium          CRICKET Sloan
-    ## 5        Calcium                  Di Wu
-    ## 6        Calcium        Greeshma Neglur
-    ## 7        Calcium        Kristin Anderka
-    ## 8         Carbon          Jessica Lyons
-    ## 9         Copper     Amanda Charbonneau
-    ## 10        Copper           Charles Reid
-    ## 11        Copper           Rayna Harris
-    ## 12        Copper         Rudy Potenzone
-    ## 13 Data Stewards           Albert Smith
-    ## 14 Data Stewards             Karen Yook
-    ## 15 Data Stewards         Kristin Ardlie
-    ## 16         Guest         Carly Strasser
-    ## 17         Guest            Helena Deus
-    ## 18         Guest         Jason Williams
-    ## 19         Guest        Lara Mangravite
-    ## 20         Guest         Melissa Cragin
-    ## 21        Helium       Asia Mieczkowska
-    ## 22        Helium       Christopher Ball
-    ## 23        Helium            Karen Davis
-    ## 24        Helium           Kevin Wilson
-    ## 25        Helium         Rebecca Boyles
-    ## 26        Helium             Stan Ahalt
-    ## 27        Helium            Tudor Oprea
-    ## 28        Helium      Vroselyn Benjamin
-    ## 29      Hydrogen              Jen Yttri
-    ## 30      Hydrogen      Kristen Cleveland
-    ## 31      Hydrogen            Lora Kutkat
-    ## 32      Hydrogen           Paul Barrett
-    ## 33      Hydrogen         Sonynka Ngosso
-    ## 34      Hydrogen         Tanja Davidsen
-    ## 35      Nitrogen       Michel Dumontier
-    ## 36        Oxygen    Lucila Ohno-Machado
-    ## 37    Phosphorus             Bob Carter
-    ## 38        Sodium         Julian Gautier
-    ## 39         Xenon            Alison Leaf
-    ## 40         Xenon         Anita de Waard
-    ## 41         Xenon Brandi Davis-Dusenbery
-    ## 42         Xenon          Ian Broadhead
-    ## 43         Xenon  Marina Soares e Silva
-    ## 44         Xenon             Mia Nastic
-    ## 45         Xenon         Saiju Pyarajan
+    ## 1          Argon         Carl Kesselman
+    ## 2          Argon             Kyle Chard
+    ## 3          Argon           Ravi Madduri
+    ## 4          Argon            Rick Wagner
+    ## 5          Argon            Rob Schuler
+    ## 6        Calcium         Abigail George
+    ## 7        Calcium         Brian O'Connor
+    ## 8        Calcium          CRICKET Sloan
+    ## 9        Calcium                  Di Wu
+    ## 10       Calcium        Greeshma Neglur
+    ## 11       Calcium        Kristin Anderka
+    ## 12       Calcium             Zac Flamig
+    ## 13        Carbon          Jessica Lyons
+    ## 14        Carbon          Laura Versmee
+    ## 15        Copper     Amanda Charbonneau
+    ## 16        Copper           Charles Reid
+    ## 17        Copper           Rayna Harris
+    ## 18        Copper         Rudy Potenzone
+    ## 19 Data Stewards           Albert Smith
+    ## 20 Data Stewards            Ben Heavner
+    ## 21 Data Stewards         Francois Aguet
+    ## 22 Data Stewards           Jared Nedzel
+    ## 23 Data Stewards             Karen Yook
+    ## 24 Data Stewards               Ken Rice
+    ## 25 Data Stewards         Kristin Ardlie
+    ## 26 Data Stewards Laurent-Philippe Albou
+    ## 27 Data Stewards         Mary Shimoyama
+    ## 28        Helium           Anne Thessen
+    ## 29        Helium       Asia Mieczkowska
+    ## 30        Helium       Christopher Ball
+    ## 31        Helium        Claris Castillo
+    ## 32        Helium            Karen Davis
+    ## 33        Helium           Kevin Wilson
+    ## 34        Helium          Kira Bradford
+    ## 35        Helium            Ray Idaszak
+    ## 36        Helium         Rebecca Boyles
+    ## 37        Helium             Stan Ahalt
+    ## 38        Helium            Tudor Oprea
+    ## 39        Helium      Vroselyn Benjamin
+    ## 40      Hydrogen              Jen Yttri
+    ## 41      Hydrogen      Kristen Cleveland
+    ## 42      Hydrogen            Lora Kutkat
+    ## 43      Hydrogen           Paul Barrett
+    ## 44      Hydrogen         Sonynka Ngosso
+    ## 45      Hydrogen         Tanja Davidsen
+    ## 46      Nitrogen            Avi Ma'ayan
+    ## 47      Nitrogen          Daniel Clarke
+    ## 48      Nitrogen       Michel Dumontier
+    ## 49        Oxygen    Lucila Ohno-Machado
+    ## 50    Phosphorus             Bob Carter
+    ## 51    Phosphorus            Kemi Ifeonu
+    ## 52    Phosphorus       Suvarna Nadendla
+    ## 53        Sodium         Julian Gautier
+    ## 54        Sodium Manuel Bernal Llinares
+    ## 55        Sodium           Max Levinson
+    ## 56        Sodium           Merce Crosas
+    ## 57         Xenon            Alison Leaf
+    ## 58         Xenon         Anita de Waard
+    ## 59         Xenon Brandi Davis-Dusenbery
+    ## 60         Xenon          Ian Broadhead
+    ## 61         Xenon  Marina Soares e Silva
+    ## 62         Xenon             Mia Nastic
+    ## 63         Xenon         Saiju Pyarajan
 
 ### Overview of particpants per team
 
-    ##             Team n
-    ## 1          Argon 1
-    ## 2        Calcium 6
-    ## 3         Carbon 1
-    ## 4         Copper 4
-    ## 5  Data Stewards 3
-    ## 6          Guest 5
-    ## 7         Helium 8
-    ## 8       Hydrogen 6
-    ## 9       Nitrogen 1
-    ## 10        Oxygen 1
-    ## 11    Phosphorus 1
-    ## 12        Sodium 1
-    ## 13         Xenon 7
+    ##             Team  n
+    ## 1          Argon  5
+    ## 2        Calcium  7
+    ## 3         Carbon  2
+    ## 4         Copper  4
+    ## 5  Data Stewards  9
+    ## 6         Helium 12
+    ## 7       Hydrogen  6
+    ## 8       Nitrogen  3
+    ## 9         Oxygen  1
+    ## 10    Phosphorus  3
+    ## 11        Sodium  4
+    ## 12         Xenon  7
