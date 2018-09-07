@@ -5,7 +5,7 @@ tagline: Attendees
 
 ---
 
-*The following information was last updated on September 6, 2018.*
+_The following information was last updated on September 6, 2018._
 
 ### List of attendees, sorted by team and first name
 
@@ -26,73 +26,72 @@ tagline: Attendees
     ## 14       Calcium        Kristin Anderka
     ## 15       Calcium           Lon Blauvelt
     ## 16       Calcium          Walter Shands
-    ## 17       Calcium          Walter Shands
-    ## 18       Calcium             Zac Flamig
-    ## 19        Carbon           Greg Versmee
-    ## 20        Carbon          Jessica Lyons
-    ## 21        Carbon          Laura Versmee
-    ## 22        Copper     Amanda Charbonneau
-    ## 23        Copper           Charles Reid
-    ## 24        Copper           Rayna Harris
-    ## 25        Copper       Rebecca M Calisi
-    ## 26        Copper         Rudy Potenzone
-    ## 27        Copper            Titus Brown
-    ## 28 Data Stewards           Albert Smith
-    ## 29 Data Stewards            Ben Heavner
-    ## 30 Data Stewards         Francois Aguet
-    ## 31 Data Stewards           Jared Nedzel
-    ## 32 Data Stewards             Karen Yook
-    ## 33 Data Stewards               Ken Rice
-    ## 34 Data Stewards         Kristin Ardlie
-    ## 35 Data Stewards Laurent-Philippe Albou
-    ## 36 Data Stewards         Mary Shimoyama
-    ## 37        Helium           Anne Thessen
-    ## 38        Helium       Asia Mieczkowska
-    ## 39        Helium       Christopher Ball
-    ## 40        Helium        Claris Castillo
-    ## 41        Helium            Karen Davis
-    ## 42        Helium           Kevin Wilson
-    ## 43        Helium          Kira Bradford
-    ## 44        Helium            Ray Idaszak
-    ## 45        Helium         Rebecca Boyles
-    ## 46        Helium             Stan Ahalt
-    ## 47        Helium            Tudor Oprea
-    ## 48        Helium      Vroselyn Benjamin
-    ## 49      Hydrogen            Ajay Pillai
-    ## 50      Hydrogen          Chip Schwartz
-    ## 51      Hydrogen              Jen Yttri
-    ## 52      Hydrogen          Jennie Larkin
-    ## 53      Hydrogen      Kristen Cleveland
-    ## 54      Hydrogen            Lora Kutkat
-    ## 55      Hydrogen           Paul Barrett
-    ## 56      Hydrogen         Sonynka Ngosso
-    ## 57      Hydrogen         Tanja Davidsen
-    ## 58      Nitrogen            Avi Ma'ayan
-    ## 59      Nitrogen          Daniel Clarke
-    ## 60      Nitrogen       Michel Dumontier
-    ## 61      Nitrogen         Sherry Jenkins
-    ## 62        Oxygen    Lucila Ohno-Machado
-    ## 63    Phosphorus             Bob Carter
-    ## 64    Phosphorus            Kemi Ifeonu
-    ## 65    Phosphorus       Suvarna Nadendla
-    ## 66        Sodium         Julian Gautier
-    ## 67        Sodium Manuel Bernal Llinares
-    ## 68        Sodium           Max Levinson
-    ## 69        Sodium           Merce Crosas
-    ## 70        Sodium              Tim Clark
-    ## 71         Xenon            Alison Leaf
-    ## 72         Xenon         Anita de Waard
-    ## 73         Xenon Brandi Davis-Dusenbery
-    ## 74         Xenon          Ian Broadhead
-    ## 75         Xenon  Marina Soares e Silva
-    ## 76         Xenon             Mia Nastic
-    ## 77         Xenon         Saiju Pyarajan
+    ## 17       Calcium             Zac Flamig
+    ## 18        Carbon           Greg Versmee
+    ## 19        Carbon          Jessica Lyons
+    ## 20        Carbon          Laura Versmee
+    ## 21        Copper     Amanda Charbonneau
+    ## 22        Copper           Charles Reid
+    ## 23        Copper           Rayna Harris
+    ## 24        Copper       Rebecca M Calisi
+    ## 25        Copper         Rudy Potenzone
+    ## 26        Copper            Titus Brown
+    ## 27 Data Stewards           Albert Smith
+    ## 28 Data Stewards            Ben Heavner
+    ## 29 Data Stewards         Francois Aguet
+    ## 30 Data Stewards           Jared Nedzel
+    ## 31 Data Stewards             Karen Yook
+    ## 32 Data Stewards               Ken Rice
+    ## 33 Data Stewards         Kristin Ardlie
+    ## 34 Data Stewards Laurent-Philippe Albou
+    ## 35 Data Stewards         Mary Shimoyama
+    ## 36        Helium           Anne Thessen
+    ## 37        Helium       Asia Mieczkowska
+    ## 38        Helium       Christopher Ball
+    ## 39        Helium        Claris Castillo
+    ## 40        Helium            Karen Davis
+    ## 41        Helium           Kevin Wilson
+    ## 42        Helium          Kira Bradford
+    ## 43        Helium            Ray Idaszak
+    ## 44        Helium         Rebecca Boyles
+    ## 45        Helium             Stan Ahalt
+    ## 46        Helium            Tudor Oprea
+    ## 47        Helium      Vroselyn Benjamin
+    ## 48      Hydrogen            Ajay Pillai
+    ## 49      Hydrogen          Chip Schwartz
+    ## 50      Hydrogen              Jen Yttri
+    ## 51      Hydrogen          Jennie Larkin
+    ## 52      Hydrogen      Kristen Cleveland
+    ## 53      Hydrogen            Lora Kutkat
+    ## 54      Hydrogen           Paul Barrett
+    ## 55      Hydrogen         Sonynka Ngosso
+    ## 56      Hydrogen         Tanja Davidsen
+    ## 57      Nitrogen            Avi Ma'ayan
+    ## 58      Nitrogen          Daniel Clarke
+    ## 59      Nitrogen       Michel Dumontier
+    ## 60      Nitrogen         Sherry Jenkins
+    ## 61        Oxygen    Lucila Ohno-Machado
+    ## 62    Phosphorus             Bob Carter
+    ## 63    Phosphorus            Kemi Ifeonu
+    ## 64    Phosphorus       Suvarna Nadendla
+    ## 65        Sodium         Julian Gautier
+    ## 66        Sodium Manuel Bernal Llinares
+    ## 67        Sodium           Max Levinson
+    ## 68        Sodium           Merce Crosas
+    ## 69        Sodium              Tim Clark
+    ## 70         Xenon            Alison Leaf
+    ## 71         Xenon         Anita de Waard
+    ## 72         Xenon Brandi Davis-Dusenbery
+    ## 73         Xenon          Ian Broadhead
+    ## 74         Xenon  Marina Soares e Silva
+    ## 75         Xenon             Mia Nastic
+    ## 76         Xenon         Saiju Pyarajan
 
 ### Overview of particpants per team
 
     ##             Team  n
     ## 1          Argon  6
-    ## 2        Calcium 12
+    ## 2        Calcium 11
     ## 3         Carbon  3
     ## 4         Copper  6
     ## 5  Data Stewards  9
