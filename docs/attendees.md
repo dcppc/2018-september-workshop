@@ -59,13 +59,13 @@ tagline: Attendees
     ## 47          Guest            Ajay Pillai
     ## 48          Guest         Carly Strasser
     ## 49          Guest         Jason Williams
-    ## 50   Videographer           John Mounier
+    ## 50          Guest           John Mounier
     ## 51          Guest        Lara Mangravite
     ## 52          Guest       Matthew Trunnell
     ## 53          Guest         Melissa Cragin
     ## 54          Guest          Pilar Ossorio
     ## 55          Guest       Rayneisha Watson
-    ## 56   Videographer         Tim McConville
+    ## 56          Guest         Tim McConville
     ## 57         Helium           Anne Thessen
     ## 58         Helium       Asia Mieczkowska
     ## 59         Helium       Christopher Ball
@@ -98,20 +98,19 @@ tagline: Attendees
     ## 86         Oxygen    Lucila Ohno-Machado
     ## 87     Phosphorus             Bob Carter
     ## 88     Phosphorus            Kemi Ifeonu
-    ## 89     Phosphorus        Michelle Giglio
-    ## 90     Phosphorus       Suvarna Nadendla
-    ## 91         Sodium         Julian Gautier
-    ## 92         Sodium Manuel Bernal Llinares
-    ## 93         Sodium           Max Levinson
-    ## 94         Sodium           Merce Crosas
-    ## 95         Sodium              Tim Clark
-    ## 96          Xenon            Alison Leaf
-    ## 97          Xenon         Anita de Waard
-    ## 98          Xenon Brandi Davis-Dusenbery
-    ## 99          Xenon          Ian Broadhead
-    ## 100         Xenon  Marina Soares e Silva
-    ## 101         Xenon             Mia Nastic
-    ## 102         Xenon         Saiju Pyarajan
+    ## 89     Phosphorus       Suvarna Nadendla
+    ## 90         Sodium         Julian Gautier
+    ## 91         Sodium Manuel Bernal Llinares
+    ## 92         Sodium           Max Levinson
+    ## 93         Sodium           Merce Crosas
+    ## 94         Sodium              Tim Clark
+    ## 95          Xenon            Alison Leaf
+    ## 96          Xenon         Anita de Waard
+    ## 97          Xenon Brandi Davis-Dusenbery
+    ## 98          Xenon          Ian Broadhead
+    ## 99          Xenon  Marina Soares e Silva
+    ## 100         Xenon             Mia Nastic
+    ## 101         Xenon         Saiju Pyarajan
 
 ### Overview of particpants per team
 
@@ -126,7 +125,7 @@ tagline: Attendees
     ## 8       Hydrogen 10
     ## 9       Nitrogen  7
     ## 10        Oxygen  1
-    ## 11    Phosphorus  4
+    ## 11    Phosphorus  3
     ## 12        Sodium  5
     ## 13         Xenon  7
     
