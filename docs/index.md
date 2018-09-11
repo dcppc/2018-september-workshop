@@ -59,7 +59,7 @@ Call (617) 383- 5229, or [book online here ](https://www.hotels.com/ho407440/?q-
 *Features: boutique hotel, health club*
 
 ### Childcare
-We know that primary caretakers of dependent children face inequitable hurdles when it comes to attending conferences. Please contact [Team Copper](dcppc.inbox@gmail.com ) if you have specific questions or concerns related to childcare. 
+We know that primary caretakers of dependent children face inequitable hurdles when it comes to attending conferences. Please contact [Team Copper](mailto:dcppc.inbox@gmail.com ) if you have specific questions or concerns related to childcare. 
 
 ### Code of Conduct
 
