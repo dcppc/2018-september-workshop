@@ -8,7 +8,9 @@ The meeting will talk place in Countway Library and Gordon Hall at Harvard Medic
 
 ### Quickview
 
-This is an overview of the main meeting locations. Note: the C4 meeting, STAGE steering committee meeting and the commonsing meeting are by invitation only. 
+#### Meeting locations 
+
+_Note: the C4 meeting, STAGE steering committee meeting and the commonsing meeting are by invitation only.__ 
 
 Day | Time | Description | Room 
 --- | --- |:--- | --- 
@@ -20,7 +22,8 @@ Sept 21 | 9 - 5 | Commonsing meeting | Countway 403 and 320
 Sept 21 | 9 - 12 | DCPPC talks | Gordon Hall 106: Waterhouse Room 
 Sept 20 | 1 - 4:00 | DCPPC breakouts |  Countway various
 
-This is an overview of breakout room availability. An X means that room is un available. This table will be updated as rooms are assigned to breakout groups.
+#### Breakout room availability
+_An X means that room is un available. This table will be updated as rooms are assigned to breakout groups.__
 
 Breakout Room | Capacity | Sept 20 | Sept 21
 --- | --- | --- | --- 
