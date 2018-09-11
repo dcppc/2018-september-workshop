@@ -20,7 +20,7 @@ Sept 20 | 10 - 12 | STAGE Steering | Countway 320
 Sept 20 | 1 - 4:30 | DCPPC breakouts |  Countway various
 Sept 21 | 9 - 5 | Commonsing meeting | Countway 403 and 320 
 Sept 21 | 9 - 12 | DCPPC talks | Gordon Hall 106: Waterhouse Room 
-Sept 20 | 1 - 4:00 | DCPPC breakouts |  Countway various
+Sept 20 | 1 - 4:30 | DCPPC breakouts |  Countway various
 
 #### Breakout room availability
 _An X means that room is un available. This table will be updated as rooms are assigned to breakout groups.__
