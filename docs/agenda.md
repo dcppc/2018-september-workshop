@@ -10,15 +10,15 @@ The meeting will talk place in Countway Library and Gordon Hall at Harvard Medic
 
 This is an overview of the main meeting locations. Note: the C4 meeting, STAGE steering committee meeting and the commonsing meeting are by invitation only. 
 
-Day Time | Description | Room 
---- | --- | --- 
-Sept 19 1:5 | C4 meeting  | Countway 424
-Sept 20 9-12 | DCPPC talks | Gordon Hall 106: Waterhouse Room 
-Sept 20 10-12 | STAGE Steering | Countway 320
-Sept 20 1-4:30 | DCPPC breakouts |  Countway various
-Sept 21 9 - 5 | Commonsing meeting | Countway 403 and 320 
-Sept 21 9-12 | DCPPC talks | Gordon Hall 106: Waterhouse Room 
-Sept 20 1-4:30 | DCPPC breakouts |  Countway various
+Day | Time | Description | Room 
+--- | --- |:--- | --- 
+Sept 19 | 1 - 5 | C4 meeting  | Countway 424
+Sept 20 | 9 - 12 | DCPPC talks | Gordon Hall 106: Waterhouse Room 
+Sept 20 | 10 - 12 | STAGE Steering | Countway 320
+Sept 20 | 1 - 4:30 | DCPPC breakouts |  Countway various
+Sept 21 | 9 - 5 | Commonsing meeting | Countway 403 and 320 
+Sept 21 | 9 - 12 | DCPPC talks | Gordon Hall 106: Waterhouse Room 
+Sept 20 | 1 - 4:00 | DCPPC breakouts |  Countway various
 
 This is an overview of breakout room availability. An X means that room is un available. This table will be updated as rooms are assigned to breakout groups.
 
@@ -26,13 +26,12 @@ Breakout Room | Capacity | Sept 20 | Sept 21
 --- | --- | --- | --- 
 Countway 424 | 20 | AM overflow | X
 Countway Ware Room | 16 | X | AM overflow 
-Countway Allen Room 18 | | | 
-Countway Room 320 | | Commonsing Breakout| 
+Countway Allen Room | 18 | | 
+Countway Room 320| 12 | | Commonsing Breakout
 Countway Room 423 | 12-15 | | 
 Countway Room 319a | 10-12 | | 
 Countway Room 319b | 10-12 | | X
 Countway Lahey Room | 60 | X |  
-
 
 
 ### Workshop Day 1: September 20
