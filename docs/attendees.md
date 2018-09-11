@@ -5,116 +5,127 @@ tagline: Attendees
 
 ---
 
-*The following information was last updated on September 6, 2018.*
+*The following information was last updated on September 11, 2018.*
 
 ### List of attendees, sorted by team and first name
 
-    ##             Team       Ticket Full Name
-    ## 1          Argon         Carl Kesselman
-    ## 2          Argon             Kyle Chard
-    ## 3          Argon            Mike D'Arcy
-    ## 4          Argon           Ravi Madduri
-    ## 5          Argon            Rick Wagner
-    ## 6          Argon            Rob Schuler
-    ## 7        Calcium         Abigail George
-    ## 8        Calcium      Alexander Baumann
-    ## 9        Calcium         Brian O'Connor
-    ## 10       Calcium          Cricket Sloan
-    ## 11       Calcium        David Steinberg
-    ## 12       Calcium                  Di Wu
-    ## 13       Calcium        Greeshma Neglur
-    ## 14       Calcium        Kristin Anderka
-    ## 15       Calcium           Lon Blauvelt
-    ## 16       Calcium          Walter Shands
-    ## 17       Calcium             Zac Flamig
-    ## 18        Carbon          Dan Traviglia
-    ## 19        Carbon           Greg Versmee
-    ## 20        Carbon          Jessica Lyons
-    ## 21        Carbon          Laura Versmee
-    ## 22        Copper     Amanda Charbonneau
-    ## 23        Copper               Ben Carr
-    ## 24        Copper           Charles Reid
-    ## 25        Copper          Jeremy Walter
-    ## 26        Copper          Keith Bilafer
-    ## 27        Copper        Meredith Gamble
-    ## 28        Copper           Rayna Harris
-    ## 29        Copper       Rebecca M Calisi
-    ## 30        Copper         Rudy Potenzone
-    ## 31        Copper            Sarah Edrie
-    ## 32        Copper     Sarah Wait Zaranek
-    ## 33        Copper     Sasha Wait Zaranek
-    ## 34        Copper            Titus Brown
-    ## 35 Data Stewards            Adam Wright
-    ## 36 Data Stewards           Albert Smith
-    ## 37 Data Stewards            Ben Heavner
-    ## 38 Data Stewards         Francois Aguet
-    ## 39 Data Stewards           Jared Nedzel
-    ## 40 Data Stewards             Karen Yook
-    ## 41 Data Stewards               Ken Rice
-    ## 42 Data Stewards         Kristin Ardlie
-    ## 43 Data Stewards Laurent-Philippe Albou
-    ## 44 Data Stewards         Mary Shimoyama
-    ## 45        Helium           Anne Thessen
-    ## 46        Helium       Asia Mieczkowska
-    ## 47        Helium       Christopher Ball
-    ## 48        Helium        Claris Castillo
-    ## 49        Helium            Karen Davis
-    ## 50        Helium           Kevin Wilson
-    ## 51        Helium          Kira Bradford
-    ## 52        Helium            Ray Idaszak
-    ## 53        Helium         Rebecca Boyles
-    ## 54        Helium             Stan Ahalt
-    ## 55        Helium            Tudor Oprea
-    ## 56        Helium      Vroselyn Benjamin
-    ## 57      Hydrogen          Chip Schwartz
-    ## 58      Hydrogen              Jen Yttri
-    ## 59      Hydrogen          Jennie Larkin
-    ## 60      Hydrogen      Kristen Cleveland
-    ## 61      Hydrogen            Lora Kutkat
-    ## 62      Hydrogen           Paul Barrett
-    ## 63      Hydrogen         Sonynka Ngosso
-    ## 64      Hydrogen         Tanja Davidsen
-    ## 65      Hydrogen         Vivien Bonazzi
-    ## 66      Nitrogen             Alex Jones
-    ## 67      Nitrogen            Avi Ma'ayan
-    ## 68      Nitrogen          Daniel Clarke
-    ## 69      Nitrogen          Juergen Klenk
-    ## 70      Nitrogen       Michel Dumontier
-    ## 71      Nitrogen         Sherry Jenkins
-    ## 72        Oxygen    Lucila Ohno-Machado
-    ## 73    Phosphorus             Bob Carter
-    ## 74    Phosphorus            Kemi Ifeonu
-    ## 75    Phosphorus       Suvarna Nadendla
-    ## 76        Sodium         Julian Gautier
-    ## 77        Sodium Manuel Bernal Llinares
-    ## 78        Sodium           Max Levinson
-    ## 79        Sodium           Merce Crosas
-    ## 80        Sodium              Tim Clark
-    ## 81         Xenon            Alison Leaf
-    ## 82         Xenon         Anita de Waard
-    ## 83         Xenon Brandi Davis-Dusenbery
-    ## 84         Xenon          Ian Broadhead
-    ## 85         Xenon  Marina Soares e Silva
-    ## 86         Xenon             Mia Nastic
-    ## 87         Xenon         Saiju Pyarajan
+    ##              Team       Ticket Full Name
+    ## 1           Argon         Carl Kesselman
+    ## 2           Argon             Kyle Chard
+    ## 3           Argon            Mike D'Arcy
+    ## 4           Argon           Ravi Madduri
+    ## 5           Argon            Rick Wagner
+    ## 6           Argon            Rob Schuler
+    ## 7         Calcium         Abigail George
+    ## 8         Calcium      Alexander Baumann
+    ## 9         Calcium         Brian O'Connor
+    ## 10        Calcium        David Steinberg
+    ## 11        Calcium                  Di Wu
+    ## 12        Calcium        Greeshma Neglur
+    ## 13        Calcium        Kristin Anderka
+    ## 14        Calcium           Lon Blauvelt
+    ## 15        Calcium          Walter Shands
+    ## 16        Calcium             Zac Flamig
+    ## 17         Carbon          Dan Traviglia
+    ## 18         Carbon           Greg Versmee
+    ## 19         Carbon          Jessica Lyons
+    ## 20         Carbon          Laura Versmee
+    ## 21         Copper     Amanda Charbonneau
+    ## 22         Copper               Ben Carr
+    ## 23         Copper           Charles Reid
+    ## 24         Copper          Jeremy Walter
+    ## 25         Copper          Keith Bilafer
+    ## 26         Copper        Meredith Gamble
+    ## 27         Copper           Rayna Harris
+    ## 28         Copper       Rebecca M Calisi
+    ## 29         Copper         Rudy Potenzone
+    ## 30         Copper         Rudy Potenzone
+    ## 31         Copper               S. Edrie
+    ## 32         Copper     Sarah Wait Zaranek
+    ## 33         Copper     Sasha Wait Zaranek
+    ## 34         Copper            Titus Brown
+    ## 35  Data Stewards            Adam Wright
+    ## 36  Data Stewards           Albert Smith
+    ## 37  Data Stewards            Ben Heavner
+    ## 38  Data Stewards         Christian Pich
+    ## 39  Data Stewards         Francois Aguet
+    ## 40  Data Stewards           Jared Nedzel
+    ## 41  Data Stewards       Jennifer R Smith
+    ## 42  Data Stewards             Karen Yook
+    ## 43  Data Stewards               Ken Rice
+    ## 44  Data Stewards         Kristin Ardlie
+    ## 45  Data Stewards Laurent-Philippe Albou
+    ## 46  Data Stewards         Mary Shimoyama
+    ## 47          Guest            Ajay Pillai
+    ## 48          Guest         Carly Strasser
+    ## 49          Guest         Jason Williams
+    ## 50          Guest           John Mounier
+    ## 51          Guest        Lara Mangravite
+    ## 52          Guest       Matthew Trunnell
+    ## 53          Guest         Melissa Cragin
+    ## 54          Guest          Pilar Ossorio
+    ## 55          Guest       Rayneisha Watson
+    ## 56          Guest         Tim McConville
+    ## 57         Helium           Anne Thessen
+    ## 58         Helium       Asia Mieczkowska
+    ## 59         Helium       Christopher Ball
+    ## 60         Helium        Claris Castillo
+    ## 61         Helium            Karen Davis
+    ## 62         Helium           Kevin Wilson
+    ## 63         Helium          Kira Bradford
+    ## 64         Helium            Ray Idaszak
+    ## 65         Helium         Rebecca Boyles
+    ## 66         Helium             Stan Ahalt
+    ## 67         Helium            Tudor Oprea
+    ## 68         Helium      Vroselyn Benjamin
+    ## 69       Hydrogen          Chip Schwartz
+    ## 70       Hydrogen              Jen Yttri
+    ## 71       Hydrogen          Jennie Larkin
+    ## 72       Hydrogen      Kristen Cleveland
+    ## 73       Hydrogen            Lora Kutkat
+    ## 74       Hydrogen           Paul Barrett
+    ## 75       Hydrogen          Simon Twigger
+    ## 76       Hydrogen         Sonynka Ngosso
+    ## 77       Hydrogen         Tanja Davidsen
+    ## 78       Hydrogen         Vivien Bonazzi
+    ## 79       Nitrogen             Alex Jones
+    ## 80       Nitrogen            Avi Ma'ayan
+    ## 81       Nitrogen          Daniel Clarke
+    ## 82       Nitrogen          Juergen Klenk
+    ## 83       Nitrogen       Michel Dumontier
+    ## 84       Nitrogen         Sherry Jenkins
+    ## 85       Nitrogen        Stephan Schürer
+    ## 86         Oxygen    Lucila Ohno-Machado
+    ## 87     Phosphorus             Bob Carter
+    ## 88     Phosphorus            Kemi Ifeonu
+    ## 89     Phosphorus       Suvarna Nadendla
+    ## 90         Sodium         Julian Gautier
+    ## 91         Sodium Manuel Bernal Llinares
+    ## 92         Sodium           Max Levinson
+    ## 93         Sodium           Merce Crosas
+    ## 94         Sodium              Tim Clark
+    ## 95          Xenon            Alison Leaf
+    ## 96          Xenon         Anita de Waard
+    ## 97          Xenon Brandi Davis-Dusenbery
+    ## 98          Xenon          Ian Broadhead
+    ## 99          Xenon  Marina Soares e Silva
+    ## 100         Xenon             Mia Nastic
+    ## 101         Xenon         Saiju Pyarajan
 
 ### Overview of particpants per team
 
     ##             Team  n
     ## 1          Argon  6
-    ## 2        Calcium 11
+    ## 2        Calcium 10
     ## 3         Carbon  4
-    ## 4         Copper 13
-    ## 5  Data Stewards 10
-    ## 6         Helium 12
-    ## 7       Hydrogen  9
-    ## 8       Nitrogen  6
-    ## 9         Oxygen  1
-    ## 10    Phosphorus  3
-    ## 11        Sodium  5
-    ## 12         Xenon  8
+    ## 4         Copper 14
+    ## 5  Data Stewards 12
+    ## 6          Guest 10
+    ## 7         Helium 12
+    ## 8       Hydrogen 10
+    ## 9       Nitrogen  7
+    ## 10        Oxygen  1
+    ## 11    Phosphorus  3
+    ## 12        Sodium  5
+    ## 13         Xenon  7
     
-### Guests
-
-    ## 1  Tim McConville   Videographer
-    ## 2    John Mounier   Videographer
