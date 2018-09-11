@@ -5,7 +5,7 @@ tagline: September 20-21, Harvard Medical School, Boston MA
 ---
 
 _The September DCPPC workshop will take place on September 20-21 in the
-[Countway Library of Medicine](https://www.google.com/maps/place/Countway+Library+of+Medicine/@42.3351702,-71.1058309,17z/data=!3m1!4b1!4m5!3m4!1s0x89e3798eb633f88d:0xc932ca88d645da0b!8m2!3d42.3351663!4d-71.1036369)
+[Countway Library of Medicine](https://tinyurl.com/ydzxycda)
 at the Harvard School of Public Health in Boston, MA._
 
 
