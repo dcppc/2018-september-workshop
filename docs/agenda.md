@@ -79,7 +79,8 @@ _For up-to-date information on breakout sessions, please visit the [September Wo
 16:30 - End
 
 ### Breakout room availability
-_An X means that room is unavailable. This table will be updated as rooms are assigned to breakout groups.__
+
+_An X means that room is unavailable. This table will be updated as rooms are assigned to breakout groups._
 
 Breakout Room | Capacity | Sept 20 | Sept 21
 --- | --- | --- | --- 
@@ -92,5 +93,3 @@ Countway Room 319a | 10-12 | |
 Countway Room 319b | 10-12 | | X
 Countway Lahey Room | 60 | X |  
 
-
- 
