@@ -4,21 +4,21 @@ title: September 2018 DCPPC Workshop
 tagline: Agenda
 ---
 
-The meeting will talk place in Countway Library and Gordon Hall at Harvard Medical School Longwood Campus. Click here for [Google walking directions.](https://www.google.com/maps/dir/Gordon+Hall,+Shattuck+Street,+Boston,+MA/Countway+Library+of+Medicine,+10+Shattuck+St+%233,+Boston,+MA+02115/@42.3352828,-71.1085149,16z/data=!4m14!4m13!1m5!1m1!1s0x89e3798ebbab6f27:0xcfd5113ca9f2d0d!2m2!1d-71.104215!2d42.3356451!1m5!1m1!1s0x89e3798eb633f88d:0xc932ca88d645da0b!2m2!1d-71.1036369!2d42.3351663!3e2) or view a [map with bicycle parking](https://github.com/dcppc/2018-september-workshop/issues/14).
+The meeting will take place in Countway Library and Gordon Hall at Harvard Medical School Longwood Campus. Click here for [Google walking directions.](https://preview.tinyurl.com/y9sqkxss) or view a [map with bicycle parking](https://github.com/dcppc/2018-september-workshop/issues/14).
 
 ### Meeting locations 
 
-_Note: the C4 meeting, STAGE steering committee meeting and the commonsing meeting are by invitation only.__ 
+__Note: the C4 meeting, STAGE Steering Committee meeting and the Commonsing meeting are by invitation only__ 
 
 Day | Time | Description | Room 
 --- | --- |:--- | --- 
-Sept 19 | 1 - 5 | C4 meeting  | Countway 424
-Sept 20 | 9 - 12 | DCPPC talks | Gordon Hall 106: Waterhouse Room 
-Sept 20 | 10 - 12 | STAGE Steering | Countway 320
-Sept 20 | 1 - 4:30 | DCPPC breakouts |  Countway various
-Sept 21 | 9 - 5 | Commonsing meeting | Countway 403 and 320 
-Sept 21 | 9 - 12 | DCPPC talks | Gordon Hall 106: Waterhouse Room 
-Sept 21 | 1 - 4:30 | DCPPC breakouts |  Countway various
+Sept 19 | 1-5 | C4 meeting  | Countway 424
+Sept 20 | 9-12 | DCPPC talks | Gordon Hall 106: Waterhouse Room 
+Sept 20 | 10-12 | STAGE Steering | Countway 320
+Sept 20 | 1-4:30 | DCPPC breakouts |  Countway various
+Sept 21 | 9-5 | Commonsing meeting | Countway 403 and 320 
+Sept 21 | 9-12 | DCPPC talks | Gordon Hall 106: Waterhouse Room 
+Sept 21 | 1-4:30 | DCPPC breakouts |  Countway various
 
 
 ### Workshop Day 1: September 20
@@ -79,7 +79,7 @@ _For up-to-date information on breakout sessions, please visit the [September Wo
 16:30 - End
 
 ### Breakout room availability
-_An X means that room is un available. This table will be updated as rooms are assigned to breakout groups.__
+_An X means that room is unavailable. This table will be updated as rooms are assigned to breakout groups.__
 
 Breakout Room | Capacity | Sept 20 | Sept 21
 --- | --- | --- | --- 
