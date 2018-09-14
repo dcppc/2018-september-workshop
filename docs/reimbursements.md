@@ -25,6 +25,7 @@ and complete this [Lodging Limit Justification Form](https://supplychain.ucdavis
 - Make an electronic copy of receipts and submit them via email with the form above
 
 ### 3rd party reimbursements
+
 We are **not able** to reimburse 3rd parties. If your employer pays for your expenses upfront (hotel, flights, etc) you should include those items in your reimbursement form. You will be issued a reimbursement check for the full amount. It will be your responsibility to reimburse your employer.
 
 ### Meals
