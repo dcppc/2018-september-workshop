@@ -13,12 +13,12 @@ __Note: the C4 meeting, STAGE Steering Committee meeting and the Commonsing meet
 Day | Time | Description | Room 
 --- | --- |:--- | --- 
 Sept 19 | 1-5 | C4 meeting  | Countway 424
-Sept 20 | 9-12 | DCPPC talks | Gordon Hall 106: Waterhouse Room 
+**Sept 20** | **9-12** | **DCPPC talks** | **Gordon Hall Waterhouse Room (106)** 
 Sept 20 | 10-12 | STAGE Steering | Countway 320
-Sept 20 | 1-4:30 | DCPPC breakouts |  Countway various
+**Sept 20** | **1-4:30 **| **DCPPC breakouts** |  **see table below**
 Sept 21 | 9-5 | Commonsing meeting | Countway 403 and 320 
-Sept 21 | 9-12 | DCPPC talks | Gordon Hall 106: Waterhouse Room 
-Sept 21 | 1-4:30 | DCPPC breakouts |  Countway various
+**Sept 21**| **9-12** | **DCPPC talks** | **Gordon Hall Waterhouse Room (106)** 
+**Sept 21** | **1-4:30** | **DCPPC breakouts** |  *see table below*
 
 
 ### Workshop Day 1: September 20
