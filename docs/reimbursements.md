@@ -9,7 +9,7 @@ and everything allowed by the [UC Davis travel policy](https://policy.ucop.edu/d
 (since we will be using UC Davis to reimburse expenses). This document provides a link to the [reimbursement from]((https://github.com/dcppc/2018-september-workshop/raw/master/docs/TravelReimbursementWorksheet.doc)) need to request reimbursement as well as the answers to some frequently asked questions. 
 
 ### Travel Reimbursement Form
-Please download and complete the [Travel Reimbursement Worksheet](https://github.com/dcppc/2018-september-workshop/raw/master/docs/TravelReimbursementWorksheet.doc) for a refund. Click the link and the download will start automatically. 
+Please download and complete the [Travel Reimbursement Worksheet](https://github.com/dcppc/2018-september-workshop/raw/master/docs/TravelReimbursementWorksheet.doc) for a refund. Click the link and the download will start automatically. Please fill your reimbursement claim within *45 days* from the end of the trip. 
 
 ### Hotels
 - Hotels should not exceed $275/night
@@ -44,11 +44,9 @@ We are **not able** to reimburse 3rd parties. If your employer pays for your exp
 
 ### Catering
 _Note: this section is for organizations helping with catering events_
-- Please save all itemized receipts. 
-- Include a list of participants.
+- Please save all itemized receipts and include a list of participants.
 - We cannot reimburse alcohol.
-- The grand total for meal reimbursement (including catered food and food purchased by attendees) should not exceed $62 per person per day. 
-- We recommend $14 per person for the combined coffee breaks and $15 per person for lunch
+- Daily meal allowances for catered meals are: breakfast $27, lunch $47, dinner $81, refreshments $19.
 - Contact <dcppc.inbox@gmail.com> with questions about payment.
 
 ### Special requests
