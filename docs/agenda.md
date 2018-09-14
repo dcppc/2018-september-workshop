@@ -27,7 +27,7 @@ Sept 21 | 9-5 | Commonsing meeting | Countway 403 and 320
 
 09:00 - Welcome remarks 
  
-09:20 - Team Lightning talks: The awesome things you have accomplished in the past.
+09:20 - Team Lightning talks. [Day 1: The awesome things you have accomplished in the past.](https://github.com/dcppc/2018-september-workshop/issues/4)
   
 _Each speaker will have 5 minutes to present and 3 minutes for Q&A.
 Stay tuned for order of presentations._
@@ -55,7 +55,7 @@ _For up-to-date information on breakout sessions, please visit the [September Wo
 
 09:00: Welcome remarks
  
-09:15: Team Lightning talks
+09:15: Team Lightning talks. [Day 2: Future plans and ongoing work.](https://github.com/dcppc/2018-september-workshop/issues/5)
 
 _Each speaker will have 5 minutes to present and 3 minutes for Q&A.
 Stay tuned for order of presentations._
