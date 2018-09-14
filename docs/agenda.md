@@ -8,7 +8,7 @@ The meeting will take place in Countway Library and Gordon Hall at Harvard Medic
 
 ### Meeting locations 
 
-__Note: the C4 meeting, STAGE Steering Committee meeting and the Commonsing meeting are by invitation only__ 
+_Note: the C4 meeting, STAGE Steering Committee meeting and the Commonsing meeting are by invitation only._ 
 
 Day | Time | Description | Room 
 --- | --- |:--- | --- 
