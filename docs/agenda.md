@@ -11,7 +11,7 @@ The meeting will take place in Countway Library and Gordon Hall at Harvard Medic
 _Note: the C4 meeting, STAGE Steering Committee meeting and the Commonsing meeting are by invitation only._ 
 
 Day | Time | Description | Room 
---- | --- |:--- | --- 
+--- | :---: | --- | --- 
 Sept 19 | 1-5 | C4 meeting  | Countway 424
 **Sept 20** | **9-12** | **DCPPC talks** | **Gordon Hall Waterhouse Room (106)** 
 Sept 20 | 10-12 | STAGE Steering | Countway 320
@@ -83,7 +83,7 @@ _For up-to-date information on breakout sessions, please visit the [September Wo
 _An X means that room is unavailable. This table will be updated as rooms are assigned to breakout groups._
 
 Breakout Room | Capacity | Sept 20 | Sept 21
---- | --- | --- | --- 
+--- | :---: | :---: | :---: 
 Countway 424 | 20 | AM overflow | X
 Countway Ware Room | 16 | X | AM overflow 
 Countway Allen Room | 18 | | 
