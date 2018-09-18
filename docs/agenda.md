@@ -6,21 +6,16 @@ tagline: Agenda
 
 The meeting will take place in Countway Library and Gordon Hall at Harvard Medical School Longwood Campus. Click here for [Google walking directions.](https://preview.tinyurl.com/y9sqkxss) or view a [map with bicycle parking](https://github.com/dcppc/2018-september-workshop/issues/14).
 
-### Meeting locations 
+### Satellite meeting locations 
 
 _Note: the C4 meeting, STAGE Steering Committee meeting and the Commonsing meeting are by invitation only._ 
 
 Day | Time | Description | Room 
 --- | :---: | --- | --- 
 Sept 19 | 1-5 | C4 meeting  | Countway 424
-**Sept 20** | **9-1** | **DCPPC talks and lunch** | **Gordon Hall Waterhouse Room (106)** 
 Sept 20 | 10-12 | STAGE Steering | Countway 320
 Sept 20 | 12-1 | STAGE tech leads/PI | Countway 424
-**Sept 20** | **1-4:30**| **DCPPC breakouts** |  *see table below*
 Sept 21 | 9-5 | Commonsing meeting | Countway 403 and 320 
-**Sept 21**| **9-1** | **DCPPC talks and lunch** | **Gordon Hall Waterhouse Room (106)** 
-**Sept 21** | **1-4:30** | **DCPPC breakouts** |  *see table below*
-
 
 ### Workshop Day 1: September 20
 
