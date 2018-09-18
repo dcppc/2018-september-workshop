@@ -4,7 +4,7 @@ title: September 2018 DCPPC Workshop
 tagline: Agenda
 ---
 
-The meeting will take place in Countway Library and Gordon Hall at Harvard Medical School Longwood Campus. Click here for [Google walking directions.](https://preview.tinyurl.com/y9sqkxss) or view a [map with bicycle parking](https://github.com/dcppc/2018-september-workshop/issues/14).
+The September workshop meeting will take at the Harvard Medical School Longwood Campus. **The Waterhouse room in Gordon Hall** will be the main location for lightning talks, welcome remarks, closing remarks, lunch, and refreshments. Breakout groups will be in **Countway library** and Gordon Hall. Click here for [Google walking directions.](https://preview.tinyurl.com/y9sqkxss) or view a [map with bicycle parking](https://github.com/dcppc/2018-september-workshop/issues/14).
 
 ### Satellite meeting locations 
 
@@ -21,26 +21,38 @@ Sept 21 | 9-5 | Commonsing meeting | Countway 403 and 320
 
 **Link to connect via Zoom: [https://zoom.us/j/558817992](https://zoom.us/j/558817992)**
 
-09:00 - Welcome remarks 
- 
-09:20 - Team Lightning talks. [Day 1: The awesome things you have accomplished in the past.](https://github.com/dcppc/2018-september-workshop/issues/4)
-  
-_Each speaker will have 5 minutes to present and 3 minutes for Q&A.
-Stay tuned for order of presentations._
+[Team Lightning talks on Day 1](https://github.com/dcppc/2018-september-workshop/issues/4) should focus on past accomplishments (e.g. recent deliverables or demos). Each speaker will have 5 minutes to present and 3 minutes for Q&A.
 
-10:30 - Coffee break (~20 minutes)
- 
-12:00 -  Lunch (1 hour)         
 
-13:00 -  Breakout sessions
+- 09:10 Welcome remarks: Rayna Harris  
+- 09:15 Video interview update: Rebecca Calisi  
+- 09:20 Team Lightning talks  
+	- 09:20 Data Stewards (AGR): Christian Pich
+	- 09:29 Data Stewards (GTEx): Jared Nedzel
+	- 09:38 Data Stewards (TOPMed): Ken Rice
+	- 09:47 Nitrogen: Daniel Clarke
+	- 09:56 Copper: Titus Brown
+	- 10:05 Phosphorus: Kemi Ifeonu
+	- 10:14 Sodium: Mercè Crosas
+	- 10:23 Xenon: Alison Leaf
+- 10:30 Coffee break    
+	- 10:50 Oxygen: Lucila Ohno-Machado on Blockchain
+	- 11:10 Helium: Claris Castillo, Helium/Carbon collaboration
+	- 11:19 Carbon: TBD
+	- 11:28 Argon: Rick Wagner
+	- 11:37 KC7: Carl Kesselman
+	- 11:46 Calcium: TBD
+- 11:55 Breakout group pitches  
+- 12:00 Lunch   
+- 13:00 [Breakout sessions](https://github.com/dcppc/2018-september-workshop/issues) _various rooms_
 
-_For up-to-date information on breakout sessions, please visit the [September Workshop issues page](https://github.com/dcppc/2018-september-workshop/issues)_
-
-14:30 - Coffee break (~20 minutes)
+14:30 - Coffee break (~20 minutes)  
 
 16:00 - Breakout session recaps
+
+16:15 - Post-workshop survey
  
-16:20 - Closing remarks
+16:25 - Closing remarks
 
 16:30 - End
 
