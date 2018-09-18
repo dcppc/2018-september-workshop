@@ -38,7 +38,7 @@ Sept 21 | 9-5 | Commonsing meeting | Countway 403 and 320
 	- 10:50 Oxygen: Lucila Ohno-Machado on Blockchain
 	- 11:10 Helium: Claris Castillo, Helium/Carbon collaboration
 	- 11:19 Carbon: TBD
-	- 11:28 Argon: Rick Wagner or KC7: Carl Kesselman
+	- 11:28 KC7: Carl Kesselman
 	- 11:37 Calcium: TBD
 - 11:46 Breakout group pitches  
 - 12:00 Lunch   
@@ -62,7 +62,7 @@ should focus on ongoing work and future directions. Each speaker will have 5 min
 
 - 09:00  Welcome remarks - The Waterhouse room in Gordon Hall
 - 09:15  Team Lightning talks 
-	- 09:15 Argon: Rick Wagner or KC7: Carl Kesselman
+	- 09:15 Argon: Rick Wagner
 	- 09:24 Calcium:
 	- 09:33 Carbon:
 	- 09:42 Copper: S. Edrie
