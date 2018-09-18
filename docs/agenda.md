@@ -46,6 +46,7 @@ Sept 21 | 9-5 | Commonsing meeting | Countway 403 and 320
 	- [C4 prep for Phase 2 pitches](https://github.com/dcppc/2018-september-workshop/issues/2)
 	- [FISMA Compliance for Data Commons Developers](https://github.com/dcppc/2018-september-workshop/issues/12)
 	- [Full Stack Oct 16th demo planning](https://github.com/dcppc/2018-september-workshop/issues/25)
+	- _scroll down for more unassigned breakout and breakout rooms_
 - 14:30  Coffee break (~20 minutes)  
 - 16:00  Breakout session recaps
 - 16:25  Closing remarks
@@ -80,6 +81,7 @@ should focus on ongoing work and future directions. Each speaker will have 5 min
 - 13:00 -  [Day 2 Breakout sessions](https://github.com/dcppc/2018-september-workshop/issues)
 	- [Auditing and Logging Breakout Session](https://github.com/dcppc/2018-september-workshop/issues/10)
 	- [Phase 2 Interoperability planning](https://github.com/dcppc/2018-september-workshop/issues/23)
+	- _scroll down for more unassigned breakout and breakout rooms_
 - 14:30 Coffee break (~20 minutes)
 - 15:45 Breakout session recaps
 - 16:15 Post-workshop survey 
