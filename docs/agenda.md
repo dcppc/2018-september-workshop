@@ -23,7 +23,6 @@ Sept 21 | 9-5 | Commonsing meeting | Countway 403 and 320
 
 [Team Lightning talks on Day 1](https://github.com/dcppc/2018-september-workshop/issues/4) should focus on past accomplishments (e.g. recent deliverables or demos). Each speaker will have 5 minutes to present and 3 minutes for Q&A.
 
-
 - 09:10 Welcome remarks: Rayna Harris  
 - 09:15 Video interview update: Rebecca Calisi  
 - 09:20 Team Lightning talks  
@@ -35,7 +34,7 @@ Sept 21 | 9-5 | Commonsing meeting | Countway 403 and 320
 	- 10:05 Phosphorus: Kemi Ifeonu
 	- 10:14 Sodium: Mercè Crosas
 	- 10:23 Xenon: Alison Leaf
-- 10:30 Coffee break    
+- 10:30 Coffee break (~20 minutes)     
 	- 10:50 Oxygen: Lucila Ohno-Machado on Blockchain
 	- 11:10 Helium: Claris Castillo, Helium/Carbon collaboration
 	- 11:19 Carbon: TBD
@@ -44,17 +43,14 @@ Sept 21 | 9-5 | Commonsing meeting | Countway 403 and 320
 	- 11:46 Calcium: TBD
 - 11:55 Breakout group pitches  
 - 12:00 Lunch   
-- 13:00 [Breakout sessions](https://github.com/dcppc/2018-september-workshop/issues) _various rooms_
-
-14:30 - Coffee break (~20 minutes)  
-
-16:00 - Breakout session recaps
-
-16:15 - Post-workshop survey
- 
-16:25 - Closing remarks
-
-16:30 - End
+- 13:00 [Day 1 Breakout sessions](https://github.com/dcppc/2018-september-workshop/issues) 
+	- [C4 prep for Phase 2 pitches](https://github.com/dcppc/2018-september-workshop/issues/2)
+	- [FISMA Compliance for Data Commons Developers](https://github.com/dcppc/2018-september-workshop/issues/12)
+	- [Full Stack Oct 16th demo planning](https://github.com/dcppc/2018-september-workshop/issues/25)
+- 14:30  Coffee break (~20 minutes)  
+- 16:00  Breakout session recaps
+- 16:25  Closing remarks
+- 16:30  End
 
 
 ### Workshop Day 2: September 21
@@ -72,19 +68,24 @@ Stay tuned for order of presentations._
  
 12:00 -  Lunch (1 hour)         
 
-13:00 -  Breakout sessions
-
-_For up-to-date information on breakout sessions, please visit the [September Workshop issues page](https://github.com/dcppc/2018-september-workshop/issues)_
+13:00 -  [Day 2 Breakout sessions](https://github.com/dcppc/2018-september-workshop/issues)
+	- [Auditing and Logging Breakout Session](https://github.com/dcppc/2018-september-workshop/issues/10)
+	- [Phase 2 Interoperability planning](https://github.com/dcppc/2018-september-workshop/issues/23)
 
 14:30 - Coffee break (~20 minutes)
-
 16:00 - Breakout session recaps
-
-16:15 - Post-workshop survey
- 
+16:15 - Post-workshop survey 
 16:25 - Closing remarks
 
 16:30 - End
+
+### Unassigned breakout groups
+
+Not all breakout groups have been assigned to a day. These include:
+- [KC2 4 year plan activities and research](https://github.com/dcppc/2018-september-workshop/issues/9)
+- [Perform your own FAIR assessment on datasets, repositories, APIs and other digital resources](https://github.com/dcppc/2018-september-workshop/issues/11)
+- [KC1, KC2, KC7 coordinating use of schema.org](https://github.com/dcppc/2018-september-workshop/issues/22)
+- [Demystifying the Phase 2 training plan](https://github.com/dcppc/2018-september-workshop/issues/26)
 
 ### Breakout room availability
 
