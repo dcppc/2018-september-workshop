@@ -13,11 +13,12 @@ _Note: the C4 meeting, STAGE Steering Committee meeting and the Commonsing meeti
 Day | Time | Description | Room 
 --- | :---: | --- | --- 
 Sept 19 | 1-5 | C4 meeting  | Countway 424
-**Sept 20** | **9-12** | **DCPPC talks** | **Gordon Hall Waterhouse Room (106)** 
+**Sept 20** | **9-1** | **DCPPC talks and lunch** | **Gordon Hall Waterhouse Room (106)** 
 Sept 20 | 10-12 | STAGE Steering | Countway 320
+Sept 20 | 12-1 | STAGE tech leads/PI | Countway 424
 **Sept 20** | **1-4:30**| **DCPPC breakouts** |  *see table below*
 Sept 21 | 9-5 | Commonsing meeting | Countway 403 and 320 
-**Sept 21**| **9-12** | **DCPPC talks** | **Gordon Hall Waterhouse Room (106)** 
+**Sept 21**| **9-1** | **DCPPC talks and lunch** | **Gordon Hall Waterhouse Room (106)** 
 **Sept 21** | **1-4:30** | **DCPPC breakouts** |  *see table below*
 
 
@@ -84,12 +85,11 @@ _An X means that room is unavailable. This table will be updated as rooms are as
 
 Breakout Room | Capacity | Sept 20 | Sept 21
 --- | :---: | :---: | :---: 
-Countway 424 | 20 | AM overflow | X
-Countway Ware Room | 16 | X | AM overflow 
+Waterhouse | 100 |  | 
 Countway Allen Room | 18 | | 
-Countway Room 320| 12 | | Commonsing Breakout
-Countway Room 423 | 12-15 | | 
 Countway Room 319a | 10-12 | | 
 Countway Room 319b | 10-12 | | X
+Countway Room 320| 12 | | Commonsing Breakout
+Countway Room 423 | 12-15 | | X
 Countway Lahey Room | 60 | X |  
 
