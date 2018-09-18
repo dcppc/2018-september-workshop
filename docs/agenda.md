@@ -68,12 +68,12 @@ should focus on ongoing work and future directions. Each speaker will have 5 min
 	- 09:42 Copper: S. Edrie
 	- 09:51 Data Stewards (AGR): Laurent-Philippe Albou
 	- 10:00 Data Stewards (GTEx): Jared Nedzel
-	- 10:09 Data Stewards (TOPMed): Ken Rice
+	- 10:09 Data Stewards (TOPMed):  
 	- 10:18 Helium: Tudor Oprea
 - 10:30 Coffee break (~20 minutes)	
 	- 10:50 Nitrogen: Denis Torre
-	- 10:59 Oxygen: Lucila Ohno-Machado
-	- 11:08 Phosphorus: Kemi Ifeonu
+	- 10:59 Oxygen:  
+	- 11:08 Phosphorus:  
 	- 11:17 Sodium: Trisha Cruse
 	- 11:26 Xenon: Alison Leaf
 	- 11:45 Breakout group pitches
