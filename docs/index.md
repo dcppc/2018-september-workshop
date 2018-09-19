@@ -4,10 +4,7 @@ title: September 2018 DCPPC Workshop
 tagline: September 20-21, Harvard Medical School, Boston MA
 ---
 
-_The September DCPPC workshop will take place on September 20-21 in the
-[Countway Library of Medicine](https://tinyurl.com/ydzxycda)
-at the Harvard School of Public Health in Boston, MA._
-
+The September workshop meeting will take place at the Harvard Medical School Longwood Campus. **The Waterhouse room in Gordon Hall** will be the main location for lightning talks, welcome remarks, closing remarks, lunch, and refreshments. Breakout groups will be in the Countway Library and in Gordon Hall. Click here for [a google map](https://www.google.com/maps/place/Gordon+Hall,+25+Shattuck+St,+Boston,+MA+02115/@42.3356451,-71.106409,17z/data=!3m1!4b1!4m5!3m4!1s0x89e3798ebbab6f27:0xcfd5113ca9f2d0d!8m2!3d42.3356451!4d-71.104215) or view a [map with bicycle parking](https://github.com/dcppc/2018-september-workshop/issues/14).
 
 ### Quick Links
 
