@@ -37,9 +37,9 @@ Sept 21 | 9-5 | Commonsing meeting | Countway 403 and 320
 - 10:30 Coffee break (~20 minutes)     
 	- 10:50 Oxygen: Lucila Ohno-Machado on Blockchain
 	- 11:10 Helium: Claris Castillo, Helium/Carbon collaboration
-	- 11:19 Carbon: TBD
+	- 11:19 Carbon: Jessica Lyons
 	- 11:28 KC7: Carl Kesselman
-	- 11:37 Calcium: TBD
+	- 11:37 Calcium: Zac Flamig
 - 11:46 Breakout group pitches  
 - 12:00 Lunch   
 - 13:00 [Day 1 Breakout sessions](https://github.com/dcppc/2018-september-workshop/issues) 
@@ -63,8 +63,8 @@ should focus on ongoing work and future directions. Each speaker will have 5 min
 - 09:00  Welcome remarks - The Waterhouse room in Gordon Hall
 - 09:15  Team Lightning talks 
 	- 09:15 Argon: Rick Wagner
-	- 09:24 Calcium:
-	- 09:33 Carbon:
+	- 09:24 Calcium: Brian O'Connor
+	- 09:33 Carbon: Greg Versmee
 	- 09:42 Copper: S. Edrie
 	- 09:51 Data Stewards (AGR): Laurent-Philippe Albou
 	- 10:00 Data Stewards (GTEx): Jared Nedzel
@@ -72,8 +72,8 @@ should focus on ongoing work and future directions. Each speaker will have 5 min
 	- 10:18 Helium: Tudor Oprea
 - 10:30 Coffee break (~20 minutes)	
 	- 10:50 Nitrogen: Denis Torre
-	- 10:59 Oxygen:  
-	- 11:08 Phosphorus:  
+	- 10:59 Oxygen: Lucila Ohno-Machado  
+	- 11:08 Phosphorus: Suvvi Nadendla
 	- 11:17 Sodium: Trisha Cruse
 	- 11:26 Xenon: Alison Leaf
 	- 11:45 Breakout group pitches
