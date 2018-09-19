@@ -4,7 +4,7 @@ title: September 2018 DCPPC Workshop
 tagline: Agenda
 ---
 
-The September workshop meeting will take at the Harvard Medical School Longwood Campus. **The Waterhouse room in Gordon Hall** will be the main location for lightning talks, welcome remarks, closing remarks, lunch, and refreshments. Breakout groups will be in Countway library and Gordon Hall. Click here for [Google walking directions.](https://preview.tinyurl.com/y9sqkxss) or view a [map with bicycle parking](https://github.com/dcppc/2018-september-workshop/issues/14).
+The September workshop meeting will take place at the Harvard Medical School Longwood Campus. **The Waterhouse room in Gordon Hall** will be the main location for lightning talks, welcome remarks, closing remarks, lunch, and refreshments. Breakout groups will be in the Countway Library and in Gordon Hall. Click here for [Google walking directions.](https://preview.tinyurl.com/y9sqkxss) or view a [map with bicycle parking](https://github.com/dcppc/2018-september-workshop/issues/14).
 
 ### Satellite meeting locations 
 
