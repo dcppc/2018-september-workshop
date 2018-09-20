@@ -63,7 +63,7 @@ should focus on ongoing work and future directions. Each speaker will have 5 min
 - 09:00  Welcome remarks - The Waterhouse room in Gordon Hall
 - 09:15  Team Lightning talks 
 	- 09:15 Argon: Rick Wagner
-	- 09:24 Calcium: Brian O'Connor
+	- 09:24 Calcium: Anthony Philippakis
 	- 09:33 Carbon: Jessica Lyons
 	- 09:42 Copper: S. Edrie
 	- 09:51 Data Stewards (AGR): Laurent-Philippe Albou
