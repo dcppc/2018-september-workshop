@@ -104,8 +104,8 @@ Breakout Room | Capacity | Sept 20 | Sept 21
 --- | :---: | :---: | :---: 
 Waterhouse | 100 | KC1/KC2/KC7 | 
 Countway Allen Room | 18 | Full Stack | 
-Countway Room 319a | 10-12 | Francois & Kristen | 
-Countway Room 319b | 10-12 |  | X
+Countway Room 319a | 10-12 |   | 
+Countway Room 319b | 10-12 | KC9 Training | X
 Countway Room 320| 12 | C4 breakout | Commonsing Breakout
 Countway Room 423 | 12-15 | | X
 Countway Lahey Room | 60 | X |  
