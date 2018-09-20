@@ -81,6 +81,7 @@ should focus on ongoing work and future directions. Each speaker will have 5 min
 - 13:00 -  [Day 2 Breakout sessions](https://github.com/dcppc/2018-september-workshop/issues)
 	- [Auditing and Logging Breakout Session](https://github.com/dcppc/2018-september-workshop/issues/10)
 	- [Phase 2 Interoperability planning](https://github.com/dcppc/2018-september-workshop/issues/23)
+	- [Demystifying the Phase 2 training plan](https://github.com/dcppc/2018-september-workshop/issues/26)
 	- _scroll down for more unassigned breakout and breakout rooms_
 - 14:30 Coffee break (~20 minutes)
 - 15:45 Breakout session recaps
@@ -94,7 +95,6 @@ Not all breakout groups have been assigned to a day. These include:
 - [KC2 4 year plan activities and research](https://github.com/dcppc/2018-september-workshop/issues/9)
 - [Perform your own FAIR assessment on datasets, repositories, APIs and other digital resources](https://github.com/dcppc/2018-september-workshop/issues/11)
 - [KC1, KC2, KC7 coordinating use of schema.org](https://github.com/dcppc/2018-september-workshop/issues/22)
-- [Demystifying the Phase 2 training plan](https://github.com/dcppc/2018-september-workshop/issues/26)
 
 ### Breakout room availability
 
