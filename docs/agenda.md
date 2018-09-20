@@ -103,7 +103,7 @@ _An X means that room is unavailable. This table will be updated as rooms are as
 Breakout Room | Capacity | Sept 20 | Sept 21
 --- | :---: | :---: | :---: 
 Waterhouse | 100 |  | 
-Countway Allen Room | 18 | Full Stack | 
+Countway Allen Room | 18 |  | 
 Countway Room 319a | 10-12 | Francois & Kristen | 
 Countway Room 319b | 10-12 | | X
 Countway Room 320| 12 | C4 breakout | Commonsing Breakout
