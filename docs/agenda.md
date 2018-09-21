@@ -102,7 +102,7 @@ Breakout Room | Capacity | Sept 20 | Sept 21
 --- | :---: | :---: | :---: 
 Waterhouse | 100 | KC1/KC2/KC7 | FISMA/Auditing/4yearplan
 Countway Allen Room | 18 | Full Stack | FAIR assessment
-Countway Room 319a | 10-12 |   | 
+Countway Room 319a | 10-12 |   |  group work with Versemee
 Countway Room 319b | 10-12 | KC9 Training | X
 Countway Room 320| 12 | C4 breakout | Commonsing Breakout
 Countway Room 423 | 12-15 | | X
