@@ -100,7 +100,7 @@ _An X means that room is unavailable. This table will be updated as rooms are as
 
 Breakout Room | Capacity | Sept 20 | Sept 21
 --- | :---: | :---: | :---: 
-Waterhouse | 100 | KC6 | FISMA/Auditing/4yearplan
+Waterhouse | 100 | KC1/KC2/KC7 | FISMA/Auditing/4 year plan (KC6)
 Countway Allen Room | 18 | Full Stack | FAIR assessment
 Countway Room 319a | 10-12 |   |  group work with Versemee
 Countway Room 319b | 10-12 | KC9 Training | X
