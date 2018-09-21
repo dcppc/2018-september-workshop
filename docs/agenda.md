@@ -67,8 +67,8 @@ should focus on ongoing work and future directions. Each speaker will have 5 min
 	- 09:33 Carbon: Jessica Lyons
 	- 09:42 Copper: S. Edrie
 	- 09:51 Data Stewards (AGR): Laurent-Philippe Albou
-	- 10:00 Data Stewards (GTEx): Jared Nedzel
-	- 10:09 Data Stewards (TOPMed):  
+	- 10:00 Data Stewards (GTEx): Francois Aguet
+	- 10:09 Data Stewards (TOPMed): Ben Heavner
 	- 10:18 Helium: Tudor Oprea
 - 10:30 Coffee break (~20 minutes)	
 	- 10:50 Nitrogen: Denis Torre
