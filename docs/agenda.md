@@ -44,9 +44,10 @@ Sept 21 | 9-5 | Commonsing meeting | Countway 403 and 320
 - 12:00 Lunch   
 - 13:00 [Day 1 Breakout sessions](https://github.com/dcppc/2018-september-workshop/issues) 
 	- [C4 prep for Phase 2 pitches](https://github.com/dcppc/2018-september-workshop/issues/2)
-	- [FISMA Compliance for Data Commons Developers](https://github.com/dcppc/2018-september-workshop/issues/12)
 	- [Full Stack Oct 16th demo planning](https://github.com/dcppc/2018-september-workshop/issues/25)
 	- _scroll down for more unassigned breakout and breakout rooms_
+	- [Demystifying the Phase 2 training plan](https://github.com/dcppc/2018-september-workshop/issues/26)
+	- [KC1, KC2, KC7 coordinating use of schema.org](https://github.com/dcppc/2018-september-workshop/issues/22)
 - 14:30  Coffee break (~20 minutes)  
 - 16:00  Breakout session recaps
 - 16:25  Closing remarks
@@ -81,8 +82,9 @@ should focus on ongoing work and future directions. Each speaker will have 5 min
 - 13:00 -  [Day 2 Breakout sessions](https://github.com/dcppc/2018-september-workshop/issues)
 	- [Auditing and Logging Breakout Session](https://github.com/dcppc/2018-september-workshop/issues/10)
 	- [Phase 2 Interoperability planning](https://github.com/dcppc/2018-september-workshop/issues/23)
-	- [Demystifying the Phase 2 training plan](https://github.com/dcppc/2018-september-workshop/issues/26)
-	- _scroll down for more unassigned breakout and breakout rooms_
+	- [FISMA Compliance for Data Commons Developers](https://github.com/dcppc/2018-september-workshop/issues/12)
+	- [KC2 4 year plan activities and research](https://github.com/dcppc/2018-september-workshop/issues/9)
+	- [Perform your own FAIR assessment on datasets, repositories, APIs and other digital resources](https://github.com/dcppc/2018-september-workshop/issues/11)
 - 14:30 Coffee break (~20 minutes)
 - 15:30 Breakout session recaps and post-workshop survey 
 - 15:50 Closing remarks
@@ -91,9 +93,6 @@ should focus on ongoing work and future directions. Each speaker will have 5 min
 ### Unassigned breakout groups
 
 Not all breakout groups have been assigned to a day. These include:
-- [KC2 4 year plan activities and research](https://github.com/dcppc/2018-september-workshop/issues/9)
-- [Perform your own FAIR assessment on datasets, repositories, APIs and other digital resources](https://github.com/dcppc/2018-september-workshop/issues/11)
-- [KC1, KC2, KC7 coordinating use of schema.org](https://github.com/dcppc/2018-september-workshop/issues/22)
 
 ### Breakout room availability
 
@@ -101,8 +100,8 @@ _An X means that room is unavailable. This table will be updated as rooms are as
 
 Breakout Room | Capacity | Sept 20 | Sept 21
 --- | :---: | :---: | :---: 
-Waterhouse | 100 | KC1/KC2/KC7 | 
-Countway Allen Room | 18 | Full Stack | 
+Waterhouse | 100 | KC1/KC2/KC7 | FISMA/Auditing/4yearplan
+Countway Allen Room | 18 | Full Stack | FAIR assessment
 Countway Room 319a | 10-12 |   | 
 Countway Room 319b | 10-12 | KC9 Training | X
 Countway Room 320| 12 | C4 breakout | Commonsing Breakout
