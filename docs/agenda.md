@@ -84,10 +84,9 @@ should focus on ongoing work and future directions. Each speaker will have 5 min
 	- [Demystifying the Phase 2 training plan](https://github.com/dcppc/2018-september-workshop/issues/26)
 	- _scroll down for more unassigned breakout and breakout rooms_
 - 14:30 Coffee break (~20 minutes)
-- 15:45 Breakout session recaps
-- 16:15 Post-workshop survey 
-- 16:20 Closing remarks
-- 16:30 End
+- 15:30 Breakout session recaps and post-workshop survey 
+- 15:50 Closing remarks
+- 16:00 End
 
 ### Unassigned breakout groups
 
